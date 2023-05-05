@@ -1,0 +1,15 @@
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\bin\Debug\net6.0\AtidaTwitter.exe
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\bin\Debug\net6.0\AtidaTwitter.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\bin\Debug\net6.0\AtidaTwitter.runtimeconfig.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\bin\Debug\net6.0\AtidaTwitter.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\bin\Debug\net6.0\AtidaTwitter.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\refint\AtidaTwitter.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\AtidaTwitter.genruntimeconfig.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\AtidaTwitter\AtidaTwitter\obj\Debug\net6.0\ref\AtidaTwitter.dll

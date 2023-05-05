@@ -1,0 +1,12 @@
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\bin\Debug\net6.0\Atida.Repositories.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\bin\Debug\net6.0\Atida.Repositories.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\bin\Debug\net6.0\Atida.Repositories.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\refint\Atida.Repositories.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\Atida.Repositories.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Repositories\obj\Debug\net6.0\ref\Atida.Repositories.dll
