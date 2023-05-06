@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Byv1AUseOtDvjijdTBhKs5wHx55Y/1aYqP4If9W0uSTK2N3ZVXjtJeTytnSN8M+t1l9EBYRUPBDWjRSdalaS9A==",
+  "dgSpecHash": "R7FxZZIW5LUBm55fJrix1OYXpT2IbaerYbSxvxFVGi4f9h5OyhoZ8B7wNItWPy38pI/ocJUVTBAggXaEnaZevQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.WebAPI\\Atida.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

@@ -74,3 +74,4 @@ C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\bin\Debug\net6.0\Humanizer.dll
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

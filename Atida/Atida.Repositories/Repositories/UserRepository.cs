@@ -18,9 +18,10 @@ namespace Atida.Repositories.Repositories
         }
         public async Task<User> Add(User user)
         {
-            _context.Users.AddAsync(user);
+            User u = new User(user);
+            _context.Users.AddAsync(u);
             await _context.SaveChangesAsync();
-            return user;
+            return u;
         }
 
         public async Task<List<User>> GetAll()

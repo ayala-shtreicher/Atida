@@ -12,9 +12,5 @@ namespace Atida.Context
         {
             options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AtidaDB;Trusted_Connection=True");
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<User>().HasKey(a => a.Tz);
-        }
     }
 }

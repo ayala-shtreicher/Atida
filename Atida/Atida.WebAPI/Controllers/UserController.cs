@@ -28,11 +28,11 @@ namespace Atida.WebAPI.Controllers
             return _mapper.Map<List<UserModel>>(await _userService.GetAll()); 
         }
 
-        [HttpGet]
-        public int GetNotVaccinated()
-        {
-            return _userService.GetNotVaccinated(); 
-        }
+        //[HttpGet]
+        //public int GetNotVaccinated()
+        //{
+        //    return _userService.GetNotVaccinated(); 
+        //}
 
         // POST api/<UserController>
         [HttpPost]

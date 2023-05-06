@@ -23,6 +23,8 @@ builder.Services.AddAutoMapper(typeof(Mapping));
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
