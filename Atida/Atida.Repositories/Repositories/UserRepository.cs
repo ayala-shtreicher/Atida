@@ -31,7 +31,13 @@ namespace Atida.Repositories.Repositories
 
         public int GetNotVaccinated()
         {
-            return User.notVaccinated;
+            return 0;
+           // return User.notVaccinated;
+        }
+
+        public async Task<User> GetUserIdByTz(string tz)
+        {
+            return await _context.Users.FirstOrDefaultAsync(u=>u.Tz==tz);
         }
     }
 }

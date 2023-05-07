@@ -27,6 +27,12 @@ namespace Atida.Services.Services
         {
             return await _userRepository.GetAll();  
         }
+
+        public async Task<User> GetByTz(string tz)
+        {
+            return await _userRepository.GetUserIdByTz(tz);
+        }
+
         public int GetNotVaccinated()
         {
             return _userRepository.GetNotVaccinated();

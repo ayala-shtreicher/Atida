@@ -15,5 +15,13 @@ namespace Atida.Repositories.Entities
         public int UserId { get; set; }
         public DateTime ReciveTime { get; set; }
         public string Manufacturer { get; set; }
+
+        public Vaccination(int id, int userId, DateTime reciveTime, string manufacturer)
+        {
+            Id = id;
+            UserId = userId;
+            ReciveTime = reciveTime;
+            Manufacturer = manufacturer;
+        }
     }
 }

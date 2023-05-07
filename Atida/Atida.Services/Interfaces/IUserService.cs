@@ -10,6 +10,7 @@ namespace Atida.Services.Interfaces
     public interface IUserService
     {
         Task<List<User>> GetAll();
+        Task<User> GetByTz(string tz);
         Task<User> Add(User user);
         int GetNotVaccinated();
 

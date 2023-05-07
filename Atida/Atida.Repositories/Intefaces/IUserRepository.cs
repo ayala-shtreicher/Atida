@@ -10,6 +10,7 @@ namespace Atida.Repositories.Intefaces
     public interface IUserRepository
     {
         Task<List<User>> GetAll();
+        Task<User> GetUserIdByTz(string tz);
         Task<User> Add(User user);
         int GetNotVaccinated();
 

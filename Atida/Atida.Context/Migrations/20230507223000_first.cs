@@ -10,6 +10,21 @@ namespace Atida.Context.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
+                name: "SicknessDetails",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    UserId = table.Column<int>(type: "int", nullable: false),
+                    PositiveResultTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    RecoveryTime = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_SicknessDetails", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Users",
                 columns: table => new
                 {
@@ -18,14 +33,9 @@ namespace Atida.Context.Migrations
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Tz = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    City = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Street = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BuildingNumber = table.Column<int>(type: "int", nullable: false),
                     DateOfBirth = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Phone = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    MobilePhone = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PositiveResultTime = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    RecoveryTime = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    MobilePhone = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -33,7 +43,7 @@ namespace Atida.Context.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Vaccination",
+                name: "Vaccinations",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -44,28 +54,20 @@ namespace Atida.Context.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Vaccination", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Vaccination_Users_UserId",
-                        column: x => x.UserId,
-                        principalTable: "Users",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                    table.PrimaryKey("PK_Vaccinations", x => x.Id);
                 });
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Vaccination_UserId",
-                table: "Vaccination",
-                column: "UserId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Vaccination");
+                name: "SicknessDetails");
 
             migrationBuilder.DropTable(
                 name: "Users");
+
+            migrationBuilder.DropTable(
+                name: "Vaccinations");
         }
     }
 }

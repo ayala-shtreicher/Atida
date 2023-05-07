@@ -8,6 +8,9 @@ namespace Atida.Context
     public class MyDbContext : DbContext, IContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Vaccination> Vaccinations { get; set; }
+        public DbSet<SicknessDetails> SicknessDetails { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AtidaDB;Trusted_Connection=True");

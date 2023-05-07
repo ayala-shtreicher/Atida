@@ -12,6 +12,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
+builder.Services.AddSingleton<IVaccinationRepository, VaccinationRepository>();
+builder.Services.AddSingleton<ISicknessDetailsRepository, SicknessDetailsRepository>();
+builder.Services.AddSingleton<ISicknessDetailsService, SicknessDetailsService>();
+builder.Services.AddSingleton<IVaccinationService, VaccinationService>();
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddSingleton<IContext, MyDbContext>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

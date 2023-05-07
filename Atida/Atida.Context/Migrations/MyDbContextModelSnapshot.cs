@@ -22,7 +22,7 @@ namespace Atida.Context.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("Atida.Repositories.Entities.User", b =>
+            modelBuilder.Entity("Atida.Repositories.Entities.SicknessDetails", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,12 +30,27 @@ namespace Atida.Context.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("BuildingNumber")
+                    b.Property<DateTime>("PositiveResultTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("RecoveryTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.Property<string>("City")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.HasKey("Id");
+
+                    b.ToTable("SicknessDetails");
+                });
+
+            modelBuilder.Entity("Atida.Repositories.Entities.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("datetime2");
@@ -53,16 +68,6 @@ namespace Atida.Context.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("PositiveResultTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("RecoveryTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Street")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -95,23 +100,7 @@ namespace Atida.Context.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId");
-
-                    b.ToTable("Vaccination");
-                });
-
-            modelBuilder.Entity("Atida.Repositories.Entities.Vaccination", b =>
-                {
-                    b.HasOne("Atida.Repositories.Entities.User", null)
-                        .WithMany("VaccinationTimes")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("Atida.Repositories.Entities.User", b =>
-                {
-                    b.Navigation("VaccinationTimes");
+                    b.ToTable("Vaccinations");
                 });
 #pragma warning restore 612, 618
         }

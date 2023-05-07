@@ -10,6 +10,8 @@ namespace Atida.WebAPI
         {
             CreateMap<User, UserModel>().ReverseMap();
             CreateMap<Vaccination, VaccinationModel>().ReverseMap();
+            CreateMap<SicknessDetails, SicknessDetailsModel>().ReverseMap();
+            CreateMap<Address, AddressModel>().ReverseMap();
         }
     }
 }
