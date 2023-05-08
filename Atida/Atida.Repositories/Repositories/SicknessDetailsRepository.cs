@@ -32,5 +32,14 @@ namespace Atida.Repositories.Repositories
         {
             return await _context.SicknessDetails.ToListAsync();
         }
+        public async Task<int> ActivePatient()
+        {
+            return await _context.SicknessDetails.CountAsync(p => p.RecoveryTime.Month == DateTime.Now.Month);
+        }
+        public async Task<int> NotVaccinated()
+        {
+            return 0;
+           //return await _context.Users.ForEachAsync(u => _context.Vaccinations.Include(u.Id));
+        }
     }
 }

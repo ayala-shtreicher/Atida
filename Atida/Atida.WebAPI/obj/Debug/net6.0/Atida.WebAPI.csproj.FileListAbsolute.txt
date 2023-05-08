@@ -55,7 +55,6 @@ C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\Atida.WebAPI.AssemblyInfoInputs.cache
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\Atida.WebAPI.AssemblyInfo.cs
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\Atida.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\Atida.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\Atida.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Atida.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Atida.WebAPI.props
