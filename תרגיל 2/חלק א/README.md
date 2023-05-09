@@ -1,5 +1,6 @@
 "# Atida webAPI"
 
+
 Description:
 This project is a web API built using the .NET Core framework and is designed to provide data and functionality related to the COVID-19 application (such as adding a user, vaccination details, infection and recovery) The API interacts with a database to retrieve and store information.
 
@@ -44,51 +45,18 @@ Retrieves a image from local folder.
 POST /api/Image
 Creates a new Image entry in the local folder. Requires providing the image details in the request body.
 
-Database Schema
-The databases schema for the Atida Web API includes the following tables:
 
-User:
-Id
-FirstName
-LastName
-Tz
-Address
-DateOfBirth
-Phone
-MobilePhone
-
-Vaccination:
-Id
-UserId
-ReciveTime
-Manufacturer
-
-SicknessDetails:
-Id
-UserId
-PositiveResultTime
-RecoveryTime
-
-Authentication and Authorization
-This project does not implement any authentication or authorization mechanisms by default.
-
-Contributing
-Contributions to this project are welcome. 
-If you encounter any issues or have suggestions for improvements, please open an issue on the repository's issue tracker.
-You can also submit pull requests with proposed changes.
-When contributing, please ensure that you follow the existing coding style and conventions used in the project.
-Additionally, include appropriate unit tests for any new functionality or bug fixes.
-
-License
+License: 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the codebase as per the terms of this license.
 
-Acknowledgments
+Acknowledgments: 
 We would like to acknowledge the following resources and libraries that have been used in the development of this project:
 
-.NET Core
-Entity Framework Core
-ASP.NET Core
-OpenAPI/Swagger
-GitHub
-Thank you for using the Korona Web API. If you have any questions or need further assistance, 
-please don't hesitate to reach out to the project maintainers.
+.NET Core,
+Entity Framework Core,
+ASP.NET Core,
+OpenAPI/Swagger,
+GitHub. 
+
+If you have any questions or need further assistance, 
+please don't hesitate to reach out to me.
