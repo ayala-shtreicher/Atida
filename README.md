@@ -101,4 +101,8 @@ GitHub
 Thank you for using the Korona Web API. If you have any questions or need further assistance, 
 please don't hesitate to reach out to the project maintainers.
 
+![GetUserByTz](https://github.com/ayala-shtreicher/Atida/assets/118370887/0043624c-d51f-43bf-a945-40be2316dbbd)
+![PostUser](https://github.com/ayala-shtreicher/Atida/assets/118370887/b5137475-c46a-4695-9cd4-4763f89a8f30)
+![GetUsers](https://github.com/ayala-shtreicher/Atida/assets/118370887/0f924c75-b99d-4a6a-9112-b31ad4be2dbd)
+![Twitter](https://github.com/ayala-shtreicher/Atida/assets/118370887/621a6c0e-b7e1-40a0-9f25-04876101212a)
 
