@@ -38,8 +38,8 @@ namespace Atida.Repositories.Repositories
         }
         public async Task<int> NotVaccinated()
         {
-            return 0;
-           //return await _context.Users.ForEachAsync(u => _context.Vaccinations.Include(u.Id));
+
+           return await _context.Users.CountAsync() - await _context.Vaccinations.CountAsync();
         }
     }
 }
