@@ -1,4 +1,5 @@
 "# Atida webAPI"
+.
 
 Description:
 This project is a web API built using the .NET Core framework and is designed to provide data and functionality related to the COVID-19 application (such as adding a user, vaccination details, infection and recovery) The API interacts with a database to retrieve and store information.
@@ -43,6 +44,7 @@ Retrieves a image from local folder.
 
 POST /api/Image
 Creates a new Image entry in the local folder. Requires providing the image details in the request body.
+.
 
 Database Schema
 The databases schema for the Atida Web API includes the following tables:
