@@ -12,11 +12,8 @@ namespace Atida.WebAPI.Controllers
     [ApiController]
     public class ImageController : ControllerBase
     {
-        private readonly IUserService _userService;
-        public ImageController(IUserService userService)
-        {
-            _userService = userService;
-        }
+        string baseDirectory = "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\";
+
 
         // GET api/<ImageController>/5
         [HttpGet("{imageName}")]
@@ -42,7 +39,7 @@ namespace Atida.WebAPI.Controllers
         private bool ImageExists(string imageName)
         {
             // Set the base directory path where the images are stored
-            var baseDirectory = "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.WebAPI\\images";
+             baseDirectory += "Atida\\תרגיל 2\\חלק א\\Atida\\Atida.WebAPI\\images";
 
             // Combine the base directory path with the image name to get the full file path
             var filePath = Path.Combine(baseDirectory, imageName);
@@ -55,7 +52,7 @@ namespace Atida.WebAPI.Controllers
         private string GetImagePath(string imageName)
         {
             // Set the base directory path where the images are stored
-            var baseDirectory = "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.WebAPI\\images";
+             baseDirectory = "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.WebAPI\\images";
 
             // Combine the base directory path with the image name to get the full file path
             var filePath = Path.Combine(baseDirectory, imageName);
