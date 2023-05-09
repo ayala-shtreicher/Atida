@@ -4,6 +4,8 @@
 Description:
 This project is a web API built using the .NET Core framework and is designed to provide data and functionality related to the COVID-19 application (such as adding a user, vaccination details, infection and recovery) The API interacts with a database to retrieve and store information.
 
+Change the contents of the variable to redirect the project download.
+
 Apply the database migrations to create the necessary tables by running the following command in Package Manager Console (Please notice that the default project is Atida.context project): update-database.
 and then run the webAPI project.
 
