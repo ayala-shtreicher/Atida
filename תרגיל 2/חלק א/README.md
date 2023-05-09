@@ -46,31 +46,6 @@ POST /api/Image
 Creates a new Image entry in the local folder. Requires providing the image details in the request body.
 .
 
-Database Schema
-The databases schema for the Atida Web API includes the following tables:
-
-User:
-Id
-FirstName
-LastName
-Tz
-Address
-DateOfBirth
-Phone
-MobilePhone
-
-Vaccination:
-Id
-UserId
-ReciveTime
-Manufacturer
-
-SicknessDetails:
-Id
-UserId
-PositiveResultTime
-RecoveryTime
-
 Authentication and Authorization
 This project does not implement any authentication or authorization mechanisms by default.
 
