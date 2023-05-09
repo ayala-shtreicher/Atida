@@ -6,7 +6,8 @@ git clone https://github.com/ayala-shtreicher/Atida
 Description:
 This project is a web API built using the .NET Core framework and is designed to provide data and functionality related to the COVID-19 application (such as adding a user, vaccination details, infection and recovery) The API interacts with a database to retrieve and store information.
 
-<!-- Install the required dependencies by navigating to the project directory and running the following command:
+<!-- Installation Guide:
+Install the required dependencies by navigating to the project directory and running the following command:
 dotnet restore -->
 
 Set up the database connection by modifying the appsettings.json file. Update the connection string with your database credentials and other relevant information.
