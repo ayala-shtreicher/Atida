@@ -49,7 +49,7 @@ Creates a new Image entry in the local folder. Requires providing the image deta
 License: 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the codebase as per the terms of this license.
 
-Acknowledgments
+Acknowledgments: 
 We would like to acknowledge the following resources and libraries that have been used in the development of this project:
 
 .NET Core,
