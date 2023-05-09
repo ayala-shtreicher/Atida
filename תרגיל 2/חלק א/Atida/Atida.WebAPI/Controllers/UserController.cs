@@ -37,10 +37,8 @@ namespace Atida.WebAPI.Controllers
 
         // POST api/<UserController>
         [HttpPost]
-        public async Task<UserModel> Post([FromBody] UserModel userModel,string city,string street,int buildingNumber)
+        public async Task<UserModel> Post([FromBody] UserModel userModel)
         {
-            AddressModel a=new AddressModel(city,street,buildingNumber);
-            userModel.Address = a;
             return _mapper.Map<UserModel>(await _userService.Add(_mapper.Map<User>(userModel)));
         }
 
