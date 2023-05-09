@@ -8,7 +8,7 @@ dotnet restore -->
 
 <!-- Set up the database connection by modifying the appsettings.json file. Update the connection string with your database credentials and other relevant information. -->
 
-Apply the database migrations to create the necessary tables by running the following command:
+Apply the database migrations to create the necessary tables by running the following command in Package Manager Console:
 update-database
 
 <!-- Start the API by running the following command:
