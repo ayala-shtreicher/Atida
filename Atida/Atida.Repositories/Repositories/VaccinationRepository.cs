@@ -37,6 +37,11 @@ namespace Atida.Repositories.Repositories
         {
             return await _context.Vaccinations.ToListAsync();
         }
+        public async Task<int> NotVaccinated()
+        {
+
+            return await _context.Users.CountAsync() - await _context.Vaccinations.GroupBy(v => v.UserId).CountAsync();
+        }
 
     }
 }
