@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f3u7sQmj/9wSyJnM+HoH5D8rPFIlppJUrDdJcWBPSfQjSIPyoFKC9jL6AVf+HlqXhtuHdW5LE2VhJkuyk1plcQ==",
+  "dgSpecHash": "owIVpeuZzFNQF6WPRtBjXATg0Ja6yJa1Ml28AWw10dHp4O5cbkF4sGH3OYFVK3TprL7RI2JCiGVb/ihX+j/wqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Context\\Atida.Context.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\97250\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\97250\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

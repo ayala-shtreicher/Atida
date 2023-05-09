@@ -36,14 +36,21 @@ Creates a new user entry in the database. Requires providing the user details in
 GET /api/Vaccination
 Retrieves a list of all vaccinations in the database.
 
-POST /api/User
-Creates a new vaccination entry in the database. Requires providing the user details in the request body.
+POST /api/Vaccination
+Creates a new vaccination entry in the database. Requires providing the vaccination details in the request body.
 
 GET /api/SicknessDetails
 Retrieves a list of all sicknessDetails in the database.
 
-POST /api/User
-Creates a new sicknessDetails entry in the database. Requires providing the user details in the request body.
+POST /api/SicknessDetails
+Creates a new sicknessDetails entry in the database. Requires providing the sickness details in the request body.
+
+
+GET /api/Image/{image name}
+Retrieves a image from local folder.
+
+POST /api/Image
+Creates a new Image entry in the local folder. Requires providing the image details in the request body.
 
 Database Schema
 The databases schema for the Atida Web API includes the following tables:

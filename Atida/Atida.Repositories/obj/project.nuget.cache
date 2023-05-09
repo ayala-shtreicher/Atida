@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H5O1PkiLYopJsgYbhYxIM8GroKi4B8lNhEcYKiqakjc28rfQ4jGLgjqiwp9f1a8HInPgFKM6ZzrIq9mmSIvEdw==",
+  "dgSpecHash": "8lOBkJY8HssCM4NXv/6uIjeno5LoLwx+ophNVbwqYq6h8mtzjEpUi/9ar7ndjfDdA4OTfb8PQPlK+2yUSmAySQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Repositories\\Atida.Repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\97250\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.16\\microsoft.entityframeworkcore.analyzers.6.0.16.nupkg.sha512",

@@ -11,6 +11,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.Configure<IISServerOptions>(options =>
+{
+    options.AllowSynchronousIO = true;
+});
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 builder.Services.AddSingleton<IVaccinationRepository, VaccinationRepository>();
 builder.Services.AddSingleton<ISicknessDetailsRepository, SicknessDetailsRepository>();
