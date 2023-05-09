@@ -15,3 +15,20 @@ C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Context\ob
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.pdb
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.genruntimeconfig.cache
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Context\obj\Debug\net6.0\ref\Atida.Context.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Context.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Context.runtimeconfig.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Context.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Context.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Repositories.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\bin\Debug\net6.0\Atida.Repositories.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.csproj.CopyComplete
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\refint\Atida.Context.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\Atida.Context.genruntimeconfig.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Context\obj\Debug\net6.0\ref\Atida.Context.dll

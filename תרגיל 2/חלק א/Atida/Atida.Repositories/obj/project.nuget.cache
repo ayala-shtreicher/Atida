@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lOBkJY8HssCM4NXv/6uIjeno5LoLwx+ophNVbwqYq6h8mtzjEpUi/9ar7ndjfDdA4OTfb8PQPlK+2yUSmAySQ==",
+  "dgSpecHash": "CK6k8ern243MejwXXo1I5C2pXyJYaCPzRcexGkVOkFOa0kwP4XvEZTBmgRsS5b4a7xBOQ1EvNTBvz1kq8PC2JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Repositories\\Atida.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Repositories\\Atida.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",

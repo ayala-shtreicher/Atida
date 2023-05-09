@@ -13,3 +13,18 @@ C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Services\o
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Services\obj\Debug\net6.0\refint\Atida.Services.dll
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.pdb
 C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\Atida\Atida.Services\obj\Debug\net6.0\ref\Atida.Services.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\bin\Debug\net6.0\Atida.Services.deps.json
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\bin\Debug\net6.0\Atida.Services.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\bin\Debug\net6.0\Atida.Services.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\bin\Debug\net6.0\Atida.Repositories.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\bin\Debug\net6.0\Atida.Repositories.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.AssemblyInfoInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.AssemblyInfo.cs
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.csproj.CopyComplete
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\refint\Atida.Services.dll
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\Atida.Services.pdb
+C:\Users\97250\Desktop\אילה\אילה תכנות\Atida\תרגיל 2\חלק א\Atida\Atida.Services\obj\Debug\net6.0\ref\Atida.Services.dll

@@ -635,11 +635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Services\\Atida.Services.csproj",
+      "projectUniqueName": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Services\\Atida.Services.csproj",
       "projectName": "Atida.Services",
-      "projectPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Services\\Atida.Services.csproj",
+      "projectPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Services\\Atida.Services.csproj",
       "packagesPath": "C:\\Users\\97250\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Services\\obj\\",
+      "outputPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -662,8 +662,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Repositories\\Atida.Repositories.csproj": {
-              "projectPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Repositories\\Atida.Repositories.csproj"
+            "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Repositories\\Atida.Repositories.csproj": {
+              "projectPath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Repositories\\Atida.Repositories.csproj"
             }
           }
         }

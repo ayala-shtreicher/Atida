@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2EvmiJ1CpXcL2WmjbW89ztNjO6DUgVrQryBbvlse2pG0YLLUKyjDOQ/PGHlm3V9qrVwFw2im9mXCC18IZbFiXA==",
+  "dgSpecHash": "x3ZFaZVaJjcX2talqBXnuRF5V/tzRHftpqsfNp8SlYzz+ceBTJG+39WP40B+yWb+qceUdRxOUJWjwMuRKiAScA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.WebAPI\\Atida.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.WebAPI\\Atida.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\97250\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

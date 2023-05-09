@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "owIVpeuZzFNQF6WPRtBjXATg0Ja6yJa1Ml28AWw10dHp4O5cbkF4sGH3OYFVK3TprL7RI2JCiGVb/ihX+j/wqQ==",
+  "dgSpecHash": "W7TedAy2nTSTFy7l86We+ypA4Z4XqFtzQ9UZJtNYTos/PluTHIuJ3i+lmJy1ndxxQhEgwEtWhain+8+ILKnD6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\Atida\\Atida.Context\\Atida.Context.csproj",
+  "projectFilePath": "C:\\Users\\97250\\Desktop\\אילה\\אילה תכנות\\Atida\\תרגיל 2\\חלק א\\Atida\\Atida.Context\\Atida.Context.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\97250\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\97250\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

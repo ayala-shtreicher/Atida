@@ -30,6 +30,11 @@ builder.Services.AddAutoMapper(typeof(Mapping));
 
 
 var app = builder.Build();
+app.UseCors(x => x
+.AllowAnyOrigin()
+.AllowAnyMethod()
+.AllowAnyHeader()
+);
 
 app.UseStaticFiles();
 
